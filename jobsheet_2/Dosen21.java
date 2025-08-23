@@ -1,4 +1,5 @@
-public class Dosen21 {
+package jobsheet_2;
+public class Dosen21{
     String idDosen;
     String nama;
     boolean statusAktif;
@@ -8,6 +9,7 @@ public class Dosen21 {
     public Dosen21(){
 
     }
+
     public Dosen21(String idDosen, String nm, boolean statusAkt, int bergabung, String keahlian){
         this.idDosen = idDosen;
         nama = nm;

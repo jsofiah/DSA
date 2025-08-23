@@ -1,4 +1,5 @@
-public class MahasiswaMain21 {
+package jobsheet_2;
+public class MahasiswaMain21{
     public static void main(String[] args) {
         Mahasiswa21 mhs1 = new Mahasiswa21();
         mhs1.nama = "Muhammad Ali Farhan";

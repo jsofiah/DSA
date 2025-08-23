@@ -1,4 +1,5 @@
-public class DosenMain21 {
+package jobsheet_2;
+public class DosenMain21{
     public static void main(String[] args) {
         Dosen21 dosen1 = new Dosen21();
         dosen1.idDosen = "0001";

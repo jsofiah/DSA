@@ -1,4 +1,5 @@
-public class MataKuliah21 {
+package jobsheet_2;
+public class MataKuliah21{
     String kodeMK;
     String nama;
     int sks;

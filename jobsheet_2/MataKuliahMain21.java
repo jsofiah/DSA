@@ -1,4 +1,5 @@
-public class MataKuliahMain21 {
+package jobsheet_2;
+public class MataKuliahMain21{
     public static void main(String[] args) {
         MataKuliah21 matkul1 = new MataKuliah21();
         matkul1.kodeMK = "001";
