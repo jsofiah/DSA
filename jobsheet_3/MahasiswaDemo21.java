@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class MahasiswaDemo21{
     public static void main(String[] args) {
         Scanner absen21 = new Scanner(System.in);
